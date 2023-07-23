@@ -108,4 +108,6 @@ puros” em 5%.
 
 - h. A associação vai realizar uma pesquisa entre os frequentadores para coletar a 
 avaliação de cada cafeteria. Incluir um atributo, nas mesmas condições que a 
-avaliação dos cafés, para receber esta informação
+avaliação dos cafés, para receber esta informação.
+
+<i>OBS.: Este trabalho pode não estar 100% ainda, principalmente na parte de deletar tabelas.</i>
